@@ -1,0 +1,52 @@
+*{
+box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+    
+
+
+}
+
+header{
+display: flex;
+width: 100%;
+align-items: center;
+justify-content: space-between;
+  padding: 31px;
+  height: 107px;
+}
+
+.header_navbar{
+margin-right: 30px;
+
+
+}
+
+
+
+.header_navbar,ul{
+display: flex;
+
+
+
+}
+
+.header_navbar,ul,li{
+list-style: none;
+color: black;
+margin-right: 40px;
+}
+
+.header_navbar,ul,li,a{
+
+text-decoration: none;
+color: black;
+
+
+}
+
+
+header h1{
+display: inline-block;
+
+}
